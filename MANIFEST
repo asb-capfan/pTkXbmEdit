@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/00-load-My-XBMEditor.t
+t/02-pod.t
+t/03-pod-coverage.t
+lib/My/XBMEditor.pm

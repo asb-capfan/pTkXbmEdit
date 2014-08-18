@@ -1,0 +1,35 @@
+My-XBMEditor version  3.0
+=========================
+
+XBM is an old monochrome graphic format. It's so old that modern
+graphics software do not support it anymore.
+Luckily someone at Perlmonks wrote such an XBM editor in Perl/Tk.
+
+This package provides the XBM editor.
+
+INSTALLATION
+
+Get Perl.
+
+Install this module and run xbm-editor in the bin folder.
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+See the Makefile for dependencies.
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2002 by crazyinsomniac
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.18.2 or,
+at your option, any later version of Perl 5 you may have available.
+
+
