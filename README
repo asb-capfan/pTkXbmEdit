@@ -13,7 +13,7 @@ Get Perl.
 
 Download this repository to your computer. 
 
-Install this module and run xbm-editor in the bin folder.
+Install this module and run perl xbm-editor.pl in the bin folder.
 
 To install this module, open a concole in the folder where you downloaded this repository.
 Then, type the following:
